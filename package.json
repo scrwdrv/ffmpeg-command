@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/scrwdrv/ffmpeg-command/issues"
   },
-  "homepage": "https://github.com/scrwdrv/ffmpeg-command#readme"
+  "homepage": "https://github.com/scrwdrv/ffmpeg-command#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.21"
+  }
 }
