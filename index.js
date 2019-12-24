@@ -58,3 +58,4 @@ function ffprobe(path) {
     });
 }
 exports.ffprobe = ffprobe;
+//# sourceMappingURL=index.js.map
